@@ -50,9 +50,9 @@ export default Demo
 
 ## TODO
 
-[ ] Add/Remove sheets  
-[ ] Add/Remove rows and columns  
-[ ] Drag to change row height or column width  
-[ ] Style cells  
-[ ] Export Excel file  
-[ ] Support formula  
+- [ ] Add/Remove sheets  
+- [ ] Add/Remove rows and columns  
+- [ ] Drag to change row height or column width  
+- [ ] Style cells  
+- [ ] Export Excel file  
+- [ ] Support formula  
